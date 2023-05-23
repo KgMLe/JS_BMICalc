@@ -1,0 +1,55 @@
+*{
+   font-family: Quicksand;
+  font-size: 16px;
+} 
+
+body{
+    overflow: hidden;
+    
+} 
+
+.container{
+    justify-content: space-evenly;
+    align-items: center;
+    display: grid;
+    border: solid 1.5px rgb(106, 113, 247);
+    padding-bottom: 17px;
+   
+}
+
+h1{
+    font-size: 2em;
+    font-weight: bold;
+    color: rgb(106, 113, 247);
+}
+
+input{
+    border-radius: 5px;
+    border: solid 2px rgb(106, 113, 247)  ;
+}
+
+.weight{
+    border: 0px;
+    padding: 7px;  
+}
+
+.height{
+    border: 0px;
+    padding: 10px;
+}
+
+.calc{
+    border-radius: 5%;
+    padding: 13px;
+    background-color: rgb(106, 113, 247);
+}
+
+.clear{
+    border-radius: 5%;
+    padding: 13px;
+    background-color: rgb(255, 0, 0);
+}
+
+.buttons{
+    border-radius: 5px;
+}
