@@ -27,6 +27,8 @@ else if(35<=bmi){
 }
 
 }
+
+
  
 function clr() {
     // let clear =height.value; weight.value 
